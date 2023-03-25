@@ -1,0 +1,46 @@
+{
+    "movies": [
+        {
+            "movieName": "Knives Out",
+            "image": "/img/knives-out.jpg",
+            "releaseDate": "2019",
+            "cast": "Daniel Craig, Ana de Armas, Chris Evans, Joseph Gordon-Levitt, Toni Collette, Jamie Lee Curtis, Rian Johnson, Riki Lindhome, and Christopher Plummer",
+            "synopsis": "When renowned crime novelist Harlan Thrombey (Christopher Plummer) is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc (Daniel Craig) is mysteriously enlisted to investigate. From Harlan's disfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.—Lionsgate",
+            "reviews": [
+                {
+                    "content": "\"Knives Out\" is a 2019 American murder mystery film directed by Rian Johnson. The film stars an ensemble cast that includes Daniel Craig, Ana de Armas, Chris Evans, Jamie Lee Curtis, and Christopher Plummer, among others. The plot follows the investigation of the death of renowned crime novelist Harlan Thrombey, played by Plummer, whose family becomes embroiled in a web of lies, deception, and betrayal. The film has received critical acclaim for its sharp writing, clever plot twists, and excellent performances. It has been praised for its ability to reinvent the classic whodunit genre, while also paying homage to its roots. Overall, \"Knives Out\" is a smart, entertaining, and engaging film that is definitely worth a watch, especially for fans of murder mysteries and crime dramas.",
+                    "reviewerName": "Jackson Dewitt",
+                    "date": "1/17/2020",
+                    "rating": "4"
+                },
+                {
+                    "content": "Knives Out is a whodunit murder mystery film directed by Rian Johnson. The film follows a detective investigating the death of a wealthy novelist, and the dysfunctional family members who are all suspects. While the film has a star-studded cast and some clever plot twists, it ultimately falls short of being a truly great murder mystery. The characters are caricatures rather than fully fleshed-out individuals, and the plot is often predictable and lacking in tension. Additionally, the film's attempt at social commentary on issues such as immigration and privilege feels forced and heavy-handed at times. The humor can also be hit or miss, with some jokes falling flat. Overall, while Knives Out is an enjoyable enough film for fans of the murder mystery genre, it doesn't quite live up to the hype and is ultimately a mediocre entry in the genre.",
+                    "reviewerName": "Marissa Hobart",
+                    "date": "3/30/2021",
+                    "rating": "3"
+                }
+            ]
+        },
+        {
+            "movieName": "Thor",
+            "image": "/img/thor.jpg",
+            "releaseDate": "2011",
+            "cast": "Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins, Stellan Skarsgård, Kat Dennings, Clark Gregg, Colm Feore, and Idris Elba",
+            "synopsis": "As the son of Odin (Anthony Hopkins), king of the Norse gods, Thor (Chris Hemsworth) will soon inherit the throne of Asgard from his aging father. However, on the day that he is to be crowned, Thor reacts with brutality when the gods' enemies, the Frost Giants, enter the palace in violation of their treaty. As punishment, Odin banishes Thor to Earth. While Loki (Tom Hiddleston), Thor's brother, plots mischief in Asgard, Thor, now stripped of his powers, faces his greatest threat.-Google",
+            "reviews": [
+                {
+                    "content": "\"Thor\" is a superhero film released in 2011, based on the Marvel Comics character Thor. Directed by Kenneth Branagh, the film stars Chris Hemsworth as Thor, the Asgardian God of Thunder, who is banished to Earth and stripped of his powers after he disobeys his father Odin (played by Anthony Hopkins).  Overall, \"Thor\" is an enjoyable and action-packed film that does a good job of introducing the character to a wider audience. Hemsworth's performance as Thor is excellent, capturing both his physicality and his arrogance as a character. Hopkins is also well-cast as Odin, conveying both the character's wisdom and his sternness.  The film's special effects are impressive, particularly the scenes set on Asgard, which are visually stunning. The action sequences are also well-choreographed, making for some thrilling moments. The film's pacing is solid, with a good mix of action, drama, and humor.  However, the film is not without its flaws. Some of the Earth-bound scenes can feel a bit slow, and the romantic subplot between Thor and Jane Foster (played by Natalie Portman) feels underdeveloped. Additionally, the film's villain, Loki (played by Tom Hiddleston), while well-acted, doesn't quite have the same level of menace as some other Marvel villains.  Overall, \"Thor\" is a solid superhero film that serves as a good introduction to the character. While it may not be perfect, it's an enjoyable ride with great action, impressive visuals, and solid performances from its cast.",
+                    "reviewerName": "George Thompson",
+                    "date": "7/7/2015",
+                    "rating": "4"
+                },
+                {
+                    "content": "The beauty that was projected within the mythology are the lessons that are imbued through the fable. Instilling the overall lessons between greatness, ego and understanding the difference. Self-sacrifice showing growth.  From the torment of a lesser spotlighted sibling forcing the hand to act out in anger and jealousy; still holding love and admiration while learning how much the truth can hurt from being withheld.  While one is learning humility one finds weakness without comprehending the full breadth of Thor’s Caliber and Thor not fulling realizing Loki’s pain.  Each growing towards a moderate understanding, although elementary cohesion of one to the other within their current dynamics.  While bringing an array of character relationships to further their entanglement we’re drawn into the fold to feel and care for even what would seem the most miserable of the lot setting up our anti-hero Loki. ",
+                    "reviewerName": "Lala",
+                    "date": "8/15/2017",
+                    "rating": "5"
+                }
+            ]
+        }
+    ]
+}
